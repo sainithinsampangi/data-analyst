@@ -22,26 +22,37 @@ In this project, you’ll learn how to:
 
 ## 📁 Repository Contents
 
-credit card fraud analysis.pbix – Main Power BI dashboard.
-Dataset folder (if included) – Dataset used for building the dashboard.
-Screenshots – Preview visuals of the dashboard.
-README.md – Documentation of the project.
+- credit card fraud analysis.pbix – Main Power BI dashboard.
+- Dataset folder (if included) – Dataset used for building the dashboard.
+- Screenshots – Preview visuals of the dashboard.
+- README.md – Documentation of the project.
 
 ## 📊 Key Features of the Dashboard
 
-Fraud vs Non-Fraud transaction comparison
-Fraud count by transaction type
-Patterns based on gender, age groups, job field, and location
-Time-based trends (hourly, daily)
-Amount-wise fraud analysis
-Dynamic slicers for deep diving into specific segments
-KPI indicators for total transactions, fraud percentage, and fraud count
-Professionally structured layout with interactive visuals
+- Fraud vs Non-Fraud transaction comparison
+- Fraud count by transaction type
+- Patterns based on gender, age groups, job field, and location
+- Time-based trends (hourly, daily)
+- Amount-wise fraud analysis
+- Dynamic slicers for deep diving into specific segments
+- KPI indicators for total transactions, fraud percentage, and fraud count
+- Professionally structured layout with interactive visuals
 
 ## 🧮 Tech Stack
 
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Power Query
-Excel / CSV Source Files
-GitHub for version control
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query
+- Excel / CSV Source Files
+- GitHub for version control
+
+## 🚀 How to Use
+
+- Download or clone the repository.
+- Open the .pbix file in Power BI Desktop.
+- Ensure dataset paths are correctly mapped.
+- Explore the dashboard using interactive slicers and filters.
+
+## 📷 Dashboard Preview
+
+(Add screenshots of your dashboard here for better presentation)

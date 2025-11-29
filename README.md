@@ -13,7 +13,7 @@ In this project, you’ll learn how to:
 - 🤖 **Predictive Insights**: Explore how banks can leverage BI and analytics for fraud prevention.
 - 🌍 **Real-World Applications**: Understand how financial institutions detect and combat fraud daily.
 
-##Objectives
+## Objectives
 
 Detect patterns that differentiate fraudulent transactions from genuine ones.
 Analyze transaction frequency, amount, type, location, and cardholder behavior.

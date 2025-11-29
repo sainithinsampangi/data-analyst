@@ -23,8 +23,8 @@ In this project, you’ll learn how to:
 ## 📁 Repository Contents
 
 - credit card fraud analysis.pbix – Main Power BI dashboard.
-- Dataset folder (if included) – Dataset used for building the dashboard.
-- Screenshots – Preview visuals of the dashboard.
+- <a href= https://github.com/sainithinsampangi/data-analyst/blob/main/Credit%20Card%20Fraud%20Risk%20Analysis.csv>Dataset folder<\a> – Dataset used for building the dashboard.
+- <a href= https://github.com/sainithinsampangi/data-analyst/blob/main/Screenshots.png>Screenshots<\a> – Preview visuals of the dashboard.
 - README.md – Documentation of the project.
 
 ## 📊 Key Features of the Dashboard
@@ -55,4 +55,4 @@ In this project, you’ll learn how to:
 
 ## 📷 Dashboard Preview
 
-(Add screenshots of your dashboard here for better presentation)
+<a href= https://github.com/sainithinsampangi/data-analyst/blob/main/credit%20card%20fraud%20analysis.pbix>Dashboard<\a>

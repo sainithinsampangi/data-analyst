@@ -15,10 +15,10 @@ In this project, you’ll learn how to:
 
 ## Objectives
 
-Detect patterns that differentiate fraudulent transactions from genuine ones.
-Analyze transaction frequency, amount, type, location, and cardholder behavior.
-Present insights through clean visual storytelling.
-Support data-driven decision-making for fraud prevention.
+- Detect patterns that differentiate fraudulent transactions from genuine ones.
+- Analyze transaction frequency, amount, type, location, and cardholder behavior.
+- Present insights through clean visual storytelling.
+- Support data-driven decision-making for fraud prevention.
 
 ## 📁 Repository Contents
 
